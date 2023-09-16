@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch wholenum",
+            "request": "launch",
+            "mainClass": "wholenum",
+            "projectName": "1 variables_a37b3ef3"
+        },
+        {
+            "type": "java",
+            "name": "Launch charr",
+            "request": "launch",
+            "mainClass": "charr",
+            "projectName": "1 variables_a37b3ef3"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringsvar",
+            "request": "launch",
+            "mainClass": "stringsvar",
+            "projectName": "1 variables_a37b3ef3"
+        },
+        {
+            "type": "java",
+            "name": "Launch bus",
+            "request": "launch",
+            "mainClass": "bus",
+            "projectName": "1 variables_a37b3ef3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch variables",
+            "request": "launch",
+            "mainClass": "variables",
+            "projectName": "1 variables_a37b3ef3"
+        }
+    ]
+}
