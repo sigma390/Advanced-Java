@@ -54,9 +54,9 @@ public class pokeirito {
             default:
                 break;
         }
-
+    return "thanks";
     }
     public static void main(String[] args) {
-        
+        randomCard();
     }
 }
