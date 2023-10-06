@@ -10,8 +10,8 @@ public class dealership {
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Welcom to Om MOTOR Dealership :");
-        System.out.println(" . Select option 'a' to buy a car");
-        System.out.println(" . Select Option 'b' To sell Car");
+        System.out.println(" 1.Select option 'A' to buy a car");
+        System.out.println(" 2.Select Option 'B' To sell Car");
         String Ch = scan.nextLine();
         switch(Ch){
 
